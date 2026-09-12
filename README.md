@@ -21,6 +21,8 @@ Công cụ cào dữ liệu (Scraper) tự động sử dụng **Python** và **
 
 ### 1. Cài đặt thư viện
 Chạy lệnh sau trong Terminal / Command Prompt để cài đặt Playwright:
-```bash
+```
 pip install playwright
 playwright install
+```
+##⚠️ Cam kết sử dụng: Mã nguồn và công cụ này chỉ được tạo ra và chia sẻ hoàn toàn với mục đích học tập và nghiên cứu kỹ thuật (Educational & Research purposes).
