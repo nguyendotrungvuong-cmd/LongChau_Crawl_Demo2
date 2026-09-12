@@ -25,4 +25,4 @@ Chạy lệnh sau trong Terminal / Command Prompt để cài đặt Playwright:
 pip install playwright
 playwright install
 ```
-##⚠️ Cam kết sử dụng: Mã nguồn và công cụ này chỉ được tạo ra và chia sẻ hoàn toàn với mục đích học tập và nghiên cứu kỹ thuật (Educational & Research purposes).
+⚠️ Cam kết sử dụng: Mã nguồn và công cụ này chỉ được tạo ra và chia sẻ hoàn toàn với mục đích học tập và nghiên cứu kỹ thuật (Educational & Research purposes).
